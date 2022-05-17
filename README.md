@@ -8,9 +8,9 @@ Rolls any dice
 
 # Installation
 
-* composer require olelishna\diceroller
+* composer require olelishna/diceroller
 
 # Use
-
+    <?php
     $roll = olelishna\diceroller\DiceRoller::roll(20);
     echo $roll;
