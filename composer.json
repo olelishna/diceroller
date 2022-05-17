@@ -1,0 +1,19 @@
+{
+  "name": "olelishna/diceroller",
+  "description": "dice roller",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Olga Svistunova",
+      "email": "olelishna@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "olelishna\\diceroller\\": "src/"
+    }
+  }
+}
