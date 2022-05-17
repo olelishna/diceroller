@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace olelishna\diceroller;
+namespace Olelishna\Diceroller;
 
 use Exception;
 
-class DiceRoller
+class Dice
 {
     public static function roll(int $faces_count = null): int
     {

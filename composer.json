@@ -1,7 +1,8 @@
 {
   "name": "olelishna/diceroller",
-  "description": "dice roller",
+  "description": "Dice Roller",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Olga Svistunova",
@@ -13,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "olelishna\\diceroller\\": "src/"
+      "Olelishna\\Diceroller\\": "src/"
     }
   }
 }
